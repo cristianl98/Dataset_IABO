@@ -1,2 +1,3 @@
 # Dataset_IABO
-En los archivos se puede encontrar el Dataset con los datos del Acelerómetro del Arduino BLE 33 Sense con sus estado respectivo, y en el archivo Dataset_Inclinacion se encuentra cada estado dividido por ojas para el usos de estos datos en colab. En archivo colab se encuentran las caracteristiacas de varianza de cada estado del dataset.
+En los archivos excel de Dataset se pueden encontrar los datos encontrdos en la practica con el Acelerómetro del Arduino BLE 33 Sense con el cuaderno de colab para poder pasar estos datos a un Dataframe. El Dataframe se encuentra junto a los archivos como archivo excel. Para la cariacion de los datos se pueden observar en la siguinte grafica.
+![Image text](https://github.com/cristianl98/Dataset_IABO/blob/main/Grafica.png)
